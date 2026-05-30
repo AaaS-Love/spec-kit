@@ -1,10 +1,12 @@
 name: Create Release
 
 on:
-  push:
-    tags:
-      - 'v*'
-
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Release tag to build (e.g. v1.2.3)"
+        required: true
+        type: string
 jobs:
   release:
     runs-on: ubuntu-latest
