@@ -1,0 +1,21 @@
+{
+  "files": {
+    "media/bootstrap-claude-code.gif": {
+      "mtime": 1787244811.477266
+    },
+    "media/logo_large.webp": {
+      "mtime": 1787244811.477266
+    },
+    "media/logo_small.webp": {
+      "mtime": 1787244811.477266
+    },
+    "media/spec-kit-video-header.jpg": {
+      "mtime": 1787244811.477266
+    },
+    "media/specify_cli.gif": {
+      "mtime": 1787244811.4852664
+    }
+  },
+  "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
+  "embedding_dim": 384
+}
