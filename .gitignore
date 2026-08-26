@@ -50,3 +50,9 @@ docs/dev
 .specify/extensions/.cache/
 .specify/extensions/.backup/
 .specify/extensions/*/local-config.yml
+
+# Machine-local harness index — a SQLite DB, a FAISS vector file and a lock,
+# rebuilt on demand by the harness indexer and meaningless on another box.
+# Ignored rather than committed for the same reason canvas, aaas.com and the
+# harness repo itself ignore it: generated per-machine state, not source.
+.claude-index/
