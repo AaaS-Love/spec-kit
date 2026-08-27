@@ -1,0 +1,450 @@
+{
+  "files": {
+    "scripts/bash/check-prerequisites.sh": {
+      "mtime": 1787788704.1915417
+    },
+    "scripts/bash/common.sh": {
+      "mtime": 1787788704.1915417
+    },
+    "scripts/bash/create-new-feature.sh": {
+      "mtime": 1787788704.1915417
+    },
+    "scripts/bash/setup-plan.sh": {
+      "mtime": 1787788704.1915417
+    },
+    "scripts/bash/update-agent-context.sh": {
+      "mtime": 1787788704.1915417
+    },
+    "scripts/powershell/check-prerequisites.ps1": {
+      "mtime": 1787788704.1915417
+    },
+    "scripts/powershell/common.ps1": {
+      "mtime": 1787788704.1915417
+    },
+    "scripts/powershell/create-new-feature.ps1": {
+      "mtime": 1787788704.1915417
+    },
+    "scripts/powershell/setup-plan.ps1": {
+      "mtime": 1787788704.1915417
+    },
+    "scripts/powershell/update-agent-context.ps1": {
+      "mtime": 1787788704.1915417
+    },
+    "docs/.gitignore": {
+      "mtime": 1787788704.1795397
+    },
+    "docs/README.md": {
+      "mtime": 1787788704.1795397
+    },
+    "docs/docfx.json": {
+      "mtime": 1787788704.1795397
+    },
+    "docs/index.md": {
+      "mtime": 1787788704.1795397
+    },
+    "docs/installation.md": {
+      "mtime": 1787788704.1795397
+    },
+    "docs/local-development.md": {
+      "mtime": 1787788704.1795397
+    },
+    "docs/quickstart.md": {
+      "mtime": 1787788704.1795397
+    },
+    "docs/toc.yml": {
+      "mtime": 1787788704.1795397
+    },
+    "docs/upgrade.md": {
+      "mtime": 1787788704.1795397
+    },
+    ".gitattributes": {
+      "mtime": 1787788704.175539
+    },
+    ".gitignore": {
+      "mtime": 1787788704.1795397
+    },
+    ".markdownlint-cli2.jsonc": {
+      "mtime": 1787788704.1795397
+    },
+    "AGENTS.md": {
+      "mtime": 1787788704.1795397
+    },
+    "CHANGELOG.md": {
+      "mtime": 1787788704.1795397
+    },
+    "CODE_OF_CONDUCT.md": {
+      "mtime": 1787788704.1795397
+    },
+    "CONTRIBUTING.md": {
+      "mtime": 1787788704.1795397
+    },
+    "LICENSE": {
+      "mtime": 1787788704.1795397
+    },
+    "README.md": {
+      "mtime": 1787788704.1795397
+    },
+    "SECURITY.md": {
+      "mtime": 1787788704.1795397
+    },
+    "SUPPORT.md": {
+      "mtime": 1787788704.1795397
+    },
+    "TESTING.md": {
+      "mtime": 1787788704.1795397
+    },
+    "pyproject.toml": {
+      "mtime": 1787788704.1915417
+    },
+    "spec-driven.md": {
+      "mtime": 1787788704.1915417
+    },
+    "spec-kit.code-workspace": {
+      "mtime": 1787788704.1915417
+    },
+    ".devcontainer/devcontainer.json": {
+      "mtime": 1787788704.175539
+    },
+    ".devcontainer/post-create.sh": {
+      "mtime": 1787788704.175539
+    },
+    ".github/CODEOWNERS": {
+      "mtime": 1787788704.175539
+    },
+    ".github/PULL_REQUEST_TEMPLATE.md": {
+      "mtime": 1787788704.175539
+    },
+    ".github/dependabot.yml": {
+      "mtime": 1787788704.175539
+    },
+    ".github/ISSUE_TEMPLATE/agent_request.yml": {
+      "mtime": 1787788704.175539
+    },
+    ".github/ISSUE_TEMPLATE/bug_report.yml": {
+      "mtime": 1787788704.175539
+    },
+    ".github/ISSUE_TEMPLATE/config.yml": {
+      "mtime": 1787788704.175539
+    },
+    ".github/ISSUE_TEMPLATE/extension_submission.yml": {
+      "mtime": 1787788704.175539
+    },
+    ".github/ISSUE_TEMPLATE/feature_request.yml": {
+      "mtime": 1787788704.175539
+    },
+    ".github/ISSUE_TEMPLATE/preset_submission.yml": {
+      "mtime": 1787788704.175539
+    },
+    ".github/workflows/RELEASE-PROCESS.md": {
+      "mtime": 1787788704.175539
+    },
+    ".github/workflows/codeql.yml": {
+      "mtime": 1787788704.175539
+    },
+    ".github/workflows/docs.yml": {
+      "mtime": 1787788704.175539
+    },
+    ".github/workflows/lint.yml": {
+      "mtime": 1787788704.175539
+    },
+    ".github/workflows/release-trigger.yml": {
+      "mtime": 1787788704.175539
+    },
+    ".github/workflows/release.yml": {
+      "mtime": 1787788704.175539
+    },
+    ".github/workflows/stale.yml": {
+      "mtime": 1787788704.1795397
+    },
+    ".github/workflows/test.yml": {
+      "mtime": 1787788704.1795397
+    },
+    ".github/workflows/scripts/check-release-exists.sh": {
+      "mtime": 1787788704.175539
+    },
+    ".github/workflows/scripts/create-github-release.sh": {
+      "mtime": 1787788704.175539
+    },
+    ".github/workflows/scripts/create-release-packages.ps1": {
+      "mtime": 1787788704.175539
+    },
+    ".github/workflows/scripts/create-release-packages.sh": {
+      "mtime": 1787788704.175539
+    },
+    ".github/workflows/scripts/generate-release-notes.sh": {
+      "mtime": 1787788704.175539
+    },
+    ".github/workflows/scripts/get-next-version.sh": {
+      "mtime": 1787788704.175539
+    },
+    ".github/workflows/scripts/simulate-release.sh": {
+      "mtime": 1787788704.1795397
+    },
+    ".github/workflows/scripts/update-version.sh": {
+      "mtime": 1787788704.1795397
+    },
+    "extensions/EXTENSION-API-REFERENCE.md": {
+      "mtime": 1787788704.1795397
+    },
+    "extensions/EXTENSION-DEVELOPMENT-GUIDE.md": {
+      "mtime": 1787788704.1795397
+    },
+    "extensions/EXTENSION-PUBLISHING-GUIDE.md": {
+      "mtime": 1787788704.1795397
+    },
+    "extensions/EXTENSION-USER-GUIDE.md": {
+      "mtime": 1787788704.1795397
+    },
+    "extensions/README.md": {
+      "mtime": 1787788704.1795397
+    },
+    "extensions/RFC-EXTENSION-SYSTEM.md": {
+      "mtime": 1787788704.1795397
+    },
+    "extensions/catalog.community.json": {
+      "mtime": 1787788704.1795397
+    },
+    "extensions/catalog.json": {
+      "mtime": 1787788704.1795397
+    },
+    "extensions/selftest/extension.yml": {
+      "mtime": 1787788704.1795397
+    },
+    "extensions/selftest/commands/selftest.md": {
+      "mtime": 1787788704.1795397
+    },
+    "extensions/template/.gitignore": {
+      "mtime": 1787788704.1795397
+    },
+    "extensions/template/CHANGELOG.md": {
+      "mtime": 1787788704.1795397
+    },
+    "extensions/template/EXAMPLE-README.md": {
+      "mtime": 1787788704.1795397
+    },
+    "extensions/template/LICENSE": {
+      "mtime": 1787788704.1795397
+    },
+    "extensions/template/README.md": {
+      "mtime": 1787788704.1795397
+    },
+    "extensions/template/config-template.yml": {
+      "mtime": 1787788704.1795397
+    },
+    "extensions/template/extension.yml": {
+      "mtime": 1787788704.1795397
+    },
+    "extensions/template/commands/example.md": {
+      "mtime": 1787788704.1795397
+    },
+    "media/bootstrap-claude-code.gif": {
+      "mtime": 1787788704.1835403
+    },
+    "media/logo_large.webp": {
+      "mtime": 1787788704.1835403
+    },
+    "media/logo_small.webp": {
+      "mtime": 1787788704.1835403
+    },
+    "media/spec-kit-video-header.jpg": {
+      "mtime": 1787788704.1835403
+    },
+    "media/specify_cli.gif": {
+      "mtime": 1787788704.187541
+    },
+    "newsletters/2026-February.md": {
+      "mtime": 1787788704.187541
+    },
+    "presets/ARCHITECTURE.md": {
+      "mtime": 1787788704.187541
+    },
+    "presets/PUBLISHING.md": {
+      "mtime": 1787788704.187541
+    },
+    "presets/README.md": {
+      "mtime": 1787788704.187541
+    },
+    "presets/catalog.community.json": {
+      "mtime": 1787788704.187541
+    },
+    "presets/catalog.json": {
+      "mtime": 1787788704.187541
+    },
+    "presets/scaffold/README.md": {
+      "mtime": 1787788704.187541
+    },
+    "presets/scaffold/preset.yml": {
+      "mtime": 1787788704.187541
+    },
+    "presets/scaffold/commands/speckit.myext.myextcmd.md": {
+      "mtime": 1787788704.187541
+    },
+    "presets/scaffold/commands/speckit.specify.md": {
+      "mtime": 1787788704.187541
+    },
+    "presets/scaffold/templates/myext-template.md": {
+      "mtime": 1787788704.187541
+    },
+    "presets/scaffold/templates/spec-template.md": {
+      "mtime": 1787788704.187541
+    },
+    "presets/self-test/preset.yml": {
+      "mtime": 1787788704.1915417
+    },
+    "presets/self-test/commands/speckit.specify.md": {
+      "mtime": 1787788704.1915417
+    },
+    "presets/self-test/templates/agent-file-template.md": {
+      "mtime": 1787788704.1915417
+    },
+    "presets/self-test/templates/checklist-template.md": {
+      "mtime": 1787788704.1915417
+    },
+    "presets/self-test/templates/constitution-template.md": {
+      "mtime": 1787788704.1915417
+    },
+    "presets/self-test/templates/plan-template.md": {
+      "mtime": 1787788704.1915417
+    },
+    "presets/self-test/templates/spec-template.md": {
+      "mtime": 1787788704.1915417
+    },
+    "presets/self-test/templates/tasks-template.md": {
+      "mtime": 1787788704.1915417
+    },
+    "src/specify_cli/__init__.py": {
+      "mtime": 1787788704.1915417
+    },
+    "src/specify_cli/agents.py": {
+      "mtime": 1787788704.1915417
+    },
+    "src/specify_cli/extensions.py": {
+      "mtime": 1787788704.1915417
+    },
+    "src/specify_cli/presets.py": {
+      "mtime": 1787788704.1915417
+    },
+    "src/specify_cli/integrations/__init__.py": {
+      "mtime": 1787788704.1915417
+    },
+    "src/specify_cli/integrations/base.py": {
+      "mtime": 1787788704.1915417
+    },
+    "src/specify_cli/integrations/manifest.py": {
+      "mtime": 1787788704.1915417
+    },
+    "templates/agent-file-template.md": {
+      "mtime": 1787788704.1915417
+    },
+    "templates/checklist-template.md": {
+      "mtime": 1787788704.1915417
+    },
+    "templates/constitution-template.md": {
+      "mtime": 1787788704.1915417
+    },
+    "templates/plan-template.md": {
+      "mtime": 1787788704.1915417
+    },
+    "templates/sdlc-add-feature.md": {
+      "mtime": 1787788704.1915417
+    },
+    "templates/sdlc-from-scratch.md": {
+      "mtime": 1787788704.1915417
+    },
+    "templates/sdlc-onboard.md": {
+      "mtime": 1787788704.1915417
+    },
+    "templates/spec-template.md": {
+      "mtime": 1787788704.1915417
+    },
+    "templates/tasks-template.md": {
+      "mtime": 1787788704.1915417
+    },
+    "templates/vscode-settings.json": {
+      "mtime": 1787788704.1915417
+    },
+    "templates/commands/analyze.md": {
+      "mtime": 1787788704.1915417
+    },
+    "templates/commands/checklist.md": {
+      "mtime": 1787788704.1915417
+    },
+    "templates/commands/clarify.md": {
+      "mtime": 1787788704.1915417
+    },
+    "templates/commands/constitution.md": {
+      "mtime": 1787788704.1915417
+    },
+    "templates/commands/implement.md": {
+      "mtime": 1787788704.1915417
+    },
+    "templates/commands/plan.md": {
+      "mtime": 1787788704.1915417
+    },
+    "templates/commands/specify.md": {
+      "mtime": 1787788704.1915417
+    },
+    "templates/commands/tasks.md": {
+      "mtime": 1787788704.1915417
+    },
+    "templates/commands/taskstoissues.md": {
+      "mtime": 1787788704.1915417
+    },
+    "tests/__init__.py": {
+      "mtime": 1787788704.1915417
+    },
+    "tests/test_agent_config_consistency.py": {
+      "mtime": 1787788704.1955423
+    },
+    "tests/test_ai_skills.py": {
+      "mtime": 1787788704.1955423
+    },
+    "tests/test_branch_numbering.py": {
+      "mtime": 1787788704.1955423
+    },
+    "tests/test_check_tool.py": {
+      "mtime": 1787788704.1955423
+    },
+    "tests/test_core_pack_scaffold.py": {
+      "mtime": 1787788704.1955423
+    },
+    "tests/test_cursor_frontmatter.py": {
+      "mtime": 1787788704.1955423
+    },
+    "tests/test_extension_skills.py": {
+      "mtime": 1787788704.1955423
+    },
+    "tests/test_extensions.py": {
+      "mtime": 1787788704.1955423
+    },
+    "tests/test_integrations.py": {
+      "mtime": 1787788704.1955423
+    },
+    "tests/test_merge.py": {
+      "mtime": 1787788704.1955423
+    },
+    "tests/test_presets.py": {
+      "mtime": 1787788704.1955423
+    },
+    "tests/test_timestamp_branches.py": {
+      "mtime": 1787788704.1955423
+    },
+    "tests/hooks/TESTING.md": {
+      "mtime": 1787788704.1915417
+    },
+    "tests/hooks/plan.md": {
+      "mtime": 1787788704.1915417
+    },
+    "tests/hooks/spec.md": {
+      "mtime": 1787788704.1915417
+    },
+    "tests/hooks/tasks.md": {
+      "mtime": 1787788704.1915417
+    },
+    "tests/hooks/.specify/extensions.yml": {
+      "mtime": 1787788704.1915417
+    }
+  },
+  "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
+  "embedding_dim": 384
+}
