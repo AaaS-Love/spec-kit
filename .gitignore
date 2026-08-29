@@ -50,3 +50,6 @@ docs/dev
 .specify/extensions/.cache/
 .specify/extensions/.backup/
 .specify/extensions/*/local-config.yml
+
+# Claude local vector search index/cache (regenerated per machine)
+.claude-index/
